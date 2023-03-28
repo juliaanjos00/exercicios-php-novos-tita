@@ -1,0 +1,39 @@
+#titulo{ 
+    text-align: center;
+    font-family: sans-serif;
+    color:rgb(11, 14, 20);
+} 
+
+#text{
+    font-family: sans-serif;
+    color:rgb(2, 20, 24);
+    margin-left: 10%;
+}
+body{
+    background-color:rgb(172, 174, 241);
+    font-family: sans-serif;
+    font-size: 1;
+    color: rgb(0, 0, 0);
+    margin-left: 37%;
+    justify-content: center;
+
+} 
+#box{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color:rgba(255, 220, 247, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    width: 20%;
+}
+fieldset{
+    border:3px solid rgb(16, 85, 153);
+}
+
+#campo{
+    font-family: sans-serif;
+    color:rgb(7, 13, 24);
+    margin-left: 0;
+}
